@@ -1,0 +1,9 @@
+.slide img{height: 25rem;
+
+}
+@media (max-width:768px) {
+    .slide img{ height: 5rem;
+
+ 
+
+}
